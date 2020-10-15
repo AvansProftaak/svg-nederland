@@ -1,0 +1,171 @@
+/*------------------------------------------*/
+/*         SVG Nederland Styling            */
+/*------------------------------------------*/
+
+/* Zet in onderstaande class (.svg-nederland) de styling 
+voor width etc, rest van de svg past automatisch aan */
+
+.svg-nederland{
+    width: 100%;
+}
+
+#groningen {
+    fill: #a3a8a8;
+}
+
+#groningen:hover {
+    fill: #707373;
+    cursor: not-allowed;
+}
+
+#friesland {
+    fill: #a3a8a8;
+}
+
+#friesland:hover {
+    fill: #707373;
+    cursor: not-allowed;
+}
+
+#drenthe {
+    fill: #a3a8a8;
+}
+
+#drenthe:hover {
+    fill: #707373;
+    cursor: not-allowed;
+}
+
+#overijssel {
+    fill: #a3a8a8;
+}
+
+#overijssel:hover {
+    fill: #707373;
+    cursor: not-allowed;
+}
+
+#noordholland {
+    fill: #a3a8a8;
+}
+
+#noordholland:hover {
+    fill: #707373;
+    cursor: not-allowed;
+}
+
+#flevoland {
+    fill: #a3a8a8;
+}
+
+#flevoland:hover {
+    fill: #707373;
+    cursor: not-allowed;
+}
+
+#gelderland {
+    fill: #a3a8a8;
+}
+
+#gelderland:hover {
+    fill: #707373;
+    cursor: not-allowed;
+}
+
+#zuidholland {
+    fill: #a3a8a8;
+}
+
+#zuidholland:hover {
+    fill: #707373;
+    cursor: not-allowed;
+}
+
+#utrecht {
+    fill: #a3a8a8;
+}
+
+#utrecht:hover {
+    fill: #707373;
+    cursor: not-allowed;
+}
+
+#limburg {
+    fill: #a3a8a8;
+}
+
+#limburg:hover {
+    fill: #707373;
+    cursor: not-allowed;
+}
+
+#oostbrabant {
+    fill: #34744d;
+}
+
+#oostbrabant:hover {
+    fill: #C2F5EB;
+    cursor: pointer;
+    stroke: black;
+    stroke-width: 15px;
+}
+
+#middenbrabant {
+    fill: #34744d;
+}
+
+#middenbrabant:hover {
+    fill: #C2F5EB;
+    cursor: pointer;
+    stroke: black;
+    stroke-width: 15px;
+}
+
+#westbrabant {
+    fill: #34744d;
+}
+
+#westbrabant:hover {
+    fill: #C2F5EB;
+    cursor: pointer;
+    stroke: black;
+    stroke-width: 15px;
+}
+
+#zeeland {
+    fill: #34744d;
+}
+
+#zeeland:hover {
+    fill: #C2F5EB;
+    cursor: pointer;
+    stroke: black;
+    stroke-width: 15px;
+}
+
+.provincienaam {
+    font-size: 14px;
+    text-anchor: middle; 
+    font-family: 'Dosis', sans-serif;
+    text-decoration: none;
+}
+
+.provincienaam-beschikbaar {
+    font-size: 14px;
+    text-anchor: middle; 
+    font-family: 'Dosis', sans-serif;
+    text-decoration: none;
+    font-weight: 800;
+}
+
+.provincienaam:hover {
+    cursor: not-allowed;
+}
+
+.provincienaam-beschikbaar:hover {
+    cursor: pointer;
+}
+
+/*------------------------------------------*/
+/*       EINDE SVG Nederland Styling        */
+/*------------------------------------------*/
